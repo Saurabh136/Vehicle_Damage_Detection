@@ -2,6 +2,18 @@
 
 A six-class vehicle image classification application built with PyTorch and ResNet50 transfer learning, with an interactive Streamlit interface.
 
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-red?logo=streamlit)](https://vehicle-damage-detection-ai.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/Saurabh136/Vehicle_Damage_Detection)
+
+## 🚀 Live Application
+
+**Try the application:** 
+https://vehicle-damage-detection-ai.streamlit.app/
+
+Upload a vehicle image and get an AI-powered damage classification across six categories.
+
+
 ## Project objective
 
 Develop a deep learning model that classifies vehicle images into six categories based on vehicle view (front or rear) and condition (breakage, crushed, or normal).
@@ -10,13 +22,13 @@ Develop a deep learning model that classifies vehicle images into six categories
 
 > The peak validation accuracy and the classification-report accuracy refer to different epochs. They are deliberately reported separately.
 
-## Application demo
 
-Upload a vehicle image and the application returns one of the six supported classes.
+## Application Demo
 
-![Streamlit application screenshot](assets/app_screenshot.jpg)
+[![Vehicle Damage Detection Application](assets/app_screenshot.jpg)](https://vehicle-damage-detection-ai.streamlit.app/)
 
-*Example prediction shown by the application: Front Breakage.*
+*Click the screenshot to launch the live application.*
+
 
 ## Dataset
 
